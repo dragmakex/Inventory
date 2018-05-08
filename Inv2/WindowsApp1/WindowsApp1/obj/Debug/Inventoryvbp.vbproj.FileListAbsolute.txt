@@ -1,0 +1,24 @@
+D:\Computer Programming\Computer Programming II\VBNET\Inventory\WindowsApp1\WindowsApp1\obj\Debug\Inventoryvbp.vbprojResolveAssemblyReference.cache
+D:\Computer Programming\Computer Programming II\VBNET\Inventory\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp2.Inventoryfrm.resources
+D:\Computer Programming\Computer Programming II\VBNET\Inventory\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp2.Resources.resources
+D:\Computer Programming\Computer Programming II\VBNET\Inventory\WindowsApp1\WindowsApp1\obj\Debug\Inventoryvbp.vbproj.GenerateResource.Cache
+D:\Computer Programming\Computer Programming II\VBNET\Inventory\WindowsApp1\WindowsApp1\obj\Debug\Inventoryvbp.vbproj.CoreCompileInputs.cache
+D:\Computer Programming\Computer Programming II\VBNET\Inventory\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\Computer Programming\Computer Programming II\VBNET\Inventory\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\Computer Programming\Computer Programming II\VBNET\Inventory\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\Computer Programming\Computer Programming II\VBNET\Inventory\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\Computer Programming\Computer Programming II\VBNET\Inventory\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\Computer Programming\Computer Programming II\VBNET\Inventory\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\Computer Programming\Computer Programming II\VBNET\Inventory\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+E:\Computer Programming II\VBNET\Inventory\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+E:\Computer Programming II\VBNET\Inventory\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\Computer Programming II\VBNET\Inventory\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\Computer Programming II\VBNET\Inventory\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\Computer Programming II\VBNET\Inventory\WindowsApp1\WindowsApp1\obj\Debug\Inventoryvbp.vbprojResolveAssemblyReference.cache
+E:\Computer Programming II\VBNET\Inventory\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp2.Inventoryfrm.resources
+E:\Computer Programming II\VBNET\Inventory\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp2.Resources.resources
+E:\Computer Programming II\VBNET\Inventory\WindowsApp1\WindowsApp1\obj\Debug\Inventoryvbp.vbproj.GenerateResource.Cache
+E:\Computer Programming II\VBNET\Inventory\WindowsApp1\WindowsApp1\obj\Debug\Inventoryvbp.vbproj.CoreCompileInputs.cache
+E:\Computer Programming II\VBNET\Inventory\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\Computer Programming II\VBNET\Inventory\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\Computer Programming II\VBNET\Inventory\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
